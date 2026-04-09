@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! I'm Sanket More 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | MERN & Next.js Enthusiast <br/>
+  🚀 Full Stack Developer | MERN  <br/>
   💻 Building high-performance web apps & scalable backend microservices <br/>
-  🤖 Exploring ML/AI — from spam detection to data pipelines <br/>
+  🤖 Exploring ML/AI & data pipelines <br/>
   📍 Mumbai, Maharashtra, India
 </p>
 
