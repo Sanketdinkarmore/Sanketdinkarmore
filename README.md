@@ -1,7 +1,10 @@
 <h1 align="center">Hey there! I'm Sanket More 👋</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | MERN  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+Scalable+Web+Apps+%26+APIs;ML+Enthusiast+%7C+AWS+%26+Docker;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
   💻 Building high-performance web apps & scalable backend microservices <br/>
   🤖 Exploring ML/AI & data pipelines <br/>
   📍 Mumbai, Maharashtra, India
@@ -100,7 +103,70 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanketdinkarmore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sanketdinkarmore/Sanketdinkarmore/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sanketdinkarmore/Sanketdinkarmore/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sanketdinkarmore/Sanketdinkarmore/output/github-snake.svg" />
+  </picture>
+</p>
+
+<details>
+<summary>⚙️ Click here to activate the snake animation</summary>
+
+Go to your profile repo → **Actions** tab → **New workflow** → **set up a workflow yourself** → paste this YAML → commit:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After committing, click **Run workflow** once manually to generate the SVG immediately.
+
+</details>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🏅 Achievements & Certifications
 
 - 🥇 **Top 4 Finalist** — Hack It Out 2024 (20+ teams)
 - 🤖 **Machine Learning Certification** — Thakur College (June 2024)
@@ -119,5 +185,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanketdinkarmore&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Sanketdinkarmore&label=Profile%20Views&color=6E57F7&style=flat" />
 </p>
