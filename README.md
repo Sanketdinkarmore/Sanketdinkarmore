@@ -113,9 +113,7 @@ Full-stack REST API, JWT auth + RBAC for 3 roles.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sanketmore12?ext=heatmap&theme=dark" alt="LeetCode Stats"/>
-</p>
+
 
 <br/>
 
