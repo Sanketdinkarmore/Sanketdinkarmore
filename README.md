@@ -128,8 +128,9 @@
 ## GitHub activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanketdinkarmore&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&ring_color=22D3EE" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketdinkarmore&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanketdinkarmore&theme=nord_dark" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanketdinkarmore&theme=nord_dark" alt="Repos per language"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanketdinkarmore&theme=nord_dark" alt="Most commit language"/>
 </p>
 
 <p align="center">
