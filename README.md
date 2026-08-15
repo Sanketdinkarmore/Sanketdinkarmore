@@ -169,7 +169,6 @@
   </picture>
 </p>
 
-> After you push this README, open **Actions → Generate Snake → Run workflow** once so the snake refreshes from your latest contributions.
 
 ---
 
