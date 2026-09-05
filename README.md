@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https:nextup-sanket.duckdns.org"></a>Nextup</h3>
+      <h3><a href="https:nextup-sanket.duckdns.org">Nextup</a></h3>
       <p>Career OS — resume intelligence, match scoring, application tracking, and interview prep in one system.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
