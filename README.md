@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sanket-more"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://drive.google.com/drive/folders/1dh4v31J7-GG49W9t28D73pvbhlGE6x8n"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1IZI-NKBpcxgngYoTn6_AvkTQS0o5Jz_W/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   &nbsp;
   <a href="mailto:moresanket2305@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
@@ -37,15 +37,15 @@
       <p><a href="https://nextup-sanket.duckdns.org/"><b>Live demo →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>BrandBridge AI</h3>
-      <p>B2B brand collaboration — AI matching, shared campaigns, freelancer marketplace, proposal generation.</p>
+      <h3><a href="https://secureai-sanket.duckdns.org">SecureAI</a></h3>
+      <p>AI-powered security platform — threat detection, risk insights, and smarter protection workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+        <img src="https://img.shields.io/badge/AI-22D3EE?style=flat-square&logo=google&logoColor=black" alt="AI"/>
+        <img src="https://img.shields.io/badge/Security-0EA5E9?style=flat-square&logo=shieldsdotio&logoColor=white" alt="Security"/>
       </p>
-      <p><a href="https://brandbridgeai.vercel.app/"><b>Live demo →</b></a></p>
+      <p><a href="https://secureai-sanket.duckdns.org"><b>Live demo →</b></a></p>
     </td>
   </tr>
 </table>
@@ -95,14 +95,15 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Student Management System</h3>
-      <p>Full-stack REST API with JWT + RBAC for 3 roles.<br/>🥇 <b>Top 4 Finalist</b> — Hack It Out 2024 (20+ teams)</p>
+      <h3><a href="https://brandbridgeai.vercel.app/">BrandBridge AI</a></h3>
+      <p>B2B brand collaboration — AI matching, shared campaigns, freelancer marketplace, proposal generation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
       </p>
+      <p><a href="https://brandbridgeai.vercel.app/"><b>Live demo →</b></a></p>
     </td>
   </tr>
 </table>
@@ -146,7 +147,7 @@
 - **2024** — 🥇 Top 4 Finalist · Hack It Out (20+ teams)
 - **Sep 2024 – Feb 2025** — Frontend Intern · Ratnamace IT Solutions — 4 React UIs, ~60% faster interaction, 90+ Lighthouse, 500+ daily users
 - **Feb 2025 – Aug 2025** — Full-Stack Intern · Agarwal Packers and Movers — 3 dashboards, 2 pipelines, ~40% less manual work, AWS + Docker CI/CD
-- **2026** — Shipping **Nextup** + **BrandBridge AI**
+- **2026** — Shipping **Nextup** + **SecureAI**
 
 ---
 
@@ -168,7 +169,7 @@
     />
   </picture>
 </p>
-
+c
 
 ---
 
@@ -177,7 +178,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1dh4v31J7-GG49W9t28D73pvbhlGE6x8n"><b>Resume</b></a>
+  <a href="https://drive.google.com/file/d/1IZI-NKBpcxgngYoTn6_AvkTQS0o5Jz_W/view?usp=sharing"><b>Resume</b></a>
   ·
   <a href="https://linkedin.com/in/sanket-more"><b>LinkedIn</b></a>
   ·
