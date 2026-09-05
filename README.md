@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sanket-more"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanket-more-654a1a301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1IZI-NKBpcxgngYoTn6_AvkTQS0o5Jz_W/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   &nbsp;
